@@ -1,0 +1,10 @@
+<style>
+.tab-content {
+    display: none;
+}
+
+.tab-button {
+    padding: 10px;
+    cursor: pointer;
+}
+</style>
