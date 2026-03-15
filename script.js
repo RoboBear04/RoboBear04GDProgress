@@ -5,7 +5,7 @@ for (let i = 0; i < tabs.length; i++) {
   tabs[i].style.display = "none";
   }
 
-  document.getElementsByID(tabName).style.display = "block";
+  document.getElementByID(tabName).style.display = "block";
 }
 
 window.onload = function() {
